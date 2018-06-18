@@ -1,0 +1,7 @@
+#Sun May 14 15:52:15 BST 2017
+base.0=/Users/MohitNihalani/Desktop/Soft.Engi.Project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2c3f9b8c2002cde1afdb8f8295ef396137f241b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/MohitNihalani/Desktop/Soft.Engi.Project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1849322839660e69fb725056c27a63aeb15d05d9/classes.dex
+base.1=/Users/MohitNihalani/Desktop/Soft.Engi.Project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1849322839660e69fb725056c27a63aeb15d05d9
+file.0=/Users/MohitNihalani/Desktop/Soft.Engi.Project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2c3f9b8c2002cde1afdb8f8295ef396137f241b/classes.dex

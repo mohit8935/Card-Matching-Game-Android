@@ -1,0 +1,4 @@
+#Sun May 14 15:04:18 BST 2017
+base.0=/Users/MohitNihalani/Desktop/Soft.Engi.Project/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/MohitNihalani/Desktop/Soft.Engi.Project/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
